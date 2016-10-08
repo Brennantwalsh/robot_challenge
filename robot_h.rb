@@ -13,3 +13,5 @@ end
 
 # solution
 
+robot = RobotH.new("Brennan", "Walsh")
+robot.say_full_name

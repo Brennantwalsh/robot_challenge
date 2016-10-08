@@ -8,3 +8,5 @@ end
 
 # solution
 
+robot = RobotD.new("Kait", "Samuels")
+robot.initialize
